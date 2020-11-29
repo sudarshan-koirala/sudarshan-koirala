@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudarshan👋
 
-- :books: I'm currently studying at ...Aalto University
+- :books: I'm currently studying Computer Science at ...Aalto University
 - 🔭 I’m currently working on ...Deep learning projects
 - 🌱 I’m currently learning ...Python and Agile frameworks
 - 🤔 I’m looking for help with ...Generative Models
@@ -27,7 +27,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
 <br />
@@ -37,6 +36,8 @@
   <img align="left" alt="mesushan's GitHub Stats" src="https://github-readme-stats.mesushan.vercel.app/api?username=mesushan&show_icons=true&hide=contribs&hide_border=true" />
 
 </details>
+<!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
+<!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
 
 [twitter]: https://twitter.com/mesudarshan
 [linkedin]: https://linkedin.com/in/sudarshan-koirala
