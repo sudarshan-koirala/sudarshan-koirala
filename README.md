@@ -1,4 +1,4 @@
-### Hi there I'm Sudarshan👋
+### Hi there, I'm Sudarshan👋
 
 - :books: I'm currently studying at ...Aalto University
 - 🔭 I’m currently working on ...Deep learning projects
@@ -11,10 +11,9 @@
 [<img align="left" alt="mesudarshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mesudarshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[Icons above]: <> (follow this link -> https://github.com/simple-icons/simple-icons and http://simpleicons.org/.) -> this is how you write comments in markddown too. As you noticed this information is not shown in the readme page.
-[emoji in markdown]: <> (here is the list -> https://gist.github.com/rxaviers/7360908)
-
-</br>
+<!-- follow this link -> https://github.com/simple-icons/simple-icons and http://simpleicons.org/.) -> this is how you write comments in markddown too. As you noticed this information is not shown in the readme page. -->
+<!-- here is the list -> https://gist.github.com/rxaviers/7360908) -->
+<!-- alu -->
 
 ### Languages and Tools
 
