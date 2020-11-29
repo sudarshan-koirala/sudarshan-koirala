@@ -13,7 +13,8 @@
 
 <!-- follow this link -> https://github.com/simple-icons/simple-icons and http://simpleicons.org/.) -> this is how you write comments in markddown too. As you noticed this information is not shown in the readme page. -->
 <!-- here is the list -> https://gist.github.com/rxaviers/7360908) -->
-<!-- alu -->
+
+<br />
 
 ### Languages and Tools
 
