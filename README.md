@@ -1,9 +1,9 @@
 ### Hi there, I'm Sudarshan👋
 
-- :books: I'm currently studying Computer Science at ...Aalto University
-- 🔭 I’m currently working on ...Deep learning projects
-- 🌱 I’m currently learning ...Python and Agile frameworks
-- ⚡ Fun fact: ...I love to cook 😄 
+- :books: I'm currently studying Computer Science at ... Aalto University
+- 🔭 I’m currently working on ... Deep learning projects
+- 🌱 I’m currently learning ... Python and Agile frameworks
+- ⚡ Fun fact: ... I love to cook 😄 
 
 ### Connect with me 
 
