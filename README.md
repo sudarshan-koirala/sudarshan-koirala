@@ -7,8 +7,8 @@
 
 ### Connect with me 
 
-[<img align="left" alt="mesudarshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mesudarshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mesudarshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mesudarshan)
+[<img align="left" alt="mesudarshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sudarshan-koirala)
 
 <!-- follow this link -> https://github.com/simple-icons/simple-icons and http://simpleicons.org/.) -> this is how you write comments in markddown too. As you noticed this information is not shown in the readme page. -->
 <!-- here is the list -> https://gist.github.com/rxaviers/7360908) -->
@@ -26,14 +26,6 @@
 <img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br />
-<br />
-
-<details>
-![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala&count_private=true)
-</details>
+![Sudarshan's Github Stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-koirala&layout=compact)
 <!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
 <!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
-
-[twitter]: https://twitter.com/mesudarshan
-[linkedin]: https://linkedin.com/in/sudarshan-koirala
