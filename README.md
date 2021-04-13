@@ -30,9 +30,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="mesushan's GitHub Stats" src="https://github-readme-stats.mesushan.vercel.app/api?username=mesushan&show_icons=true&hide=contribs&hide_border=true" />
-
+![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala&count_private=true)
 </details>
 <!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
 <!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
