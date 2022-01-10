@@ -29,6 +29,7 @@
 <br />
 <br />
 
-![Sudarshan's Github Stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-koirala&layout=compact)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala)](https://github.com/sudarshan-koirala)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-koirala&layout=compact)](https://github.com/sudarshan-koirala)
 <!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
 <!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
