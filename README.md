@@ -3,7 +3,7 @@
 - :books: Graduated ... Master's of Computer Science .. from Aalto University
 - 🔭 I’m currently working on ... Data Science, Machine Learning, Natural Language Processing and Deep learning projects
 - 🌱 I’m currently learning ... Python , Big Data Platforms and Agile frameworks
-- ⚡ Fun fact: ... I love to cook 😄 
+- ⚡ Fun fact: ... I enjoy cooking 😄 
 
 ### Connect with me 
 
