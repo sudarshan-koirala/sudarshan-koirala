@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudarshan👋
 
-- :books: Graduated ... Master's of Computer Science .. from Aalto University
+- :books: Graduated ... Master's of Computer Science .. from Aalto University, Finland.
 - 🔭 I’m currently working on ... Data Science, Machine Learning, Natural Language Processing and Deep learning projects
 - 🌱 I’m currently learning ... Python , Big Data Platforms and Agile frameworks
 - ⚡ Fun fact: ... I enjoy cooking 😄 
