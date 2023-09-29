@@ -2,7 +2,7 @@
 
 - :books: Graduated ... Master's of Computer Science .. from Aalto University, Finland.
 - 🔭 I’m currently working on ... Data Science, Machine Learning, Deep learning and Large Language Models (LLMs) projects
-- 🌱 I am also a content creator where I try my best to explain topics related to what I am working 👆 as simply as possible.
+- 🌱 I am also a content creator where I try my best to explain things as simply as possible.
 - ⚡ Fun fact: ... I enjoy cooking 😄 
 
 ### Connect with me 
