@@ -32,7 +32,7 @@ src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />
 <br />
 <br />
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala)](https://github.com/sudarshan-koirala)
+[![Sudarshan’s github stats](https://github-readme-stats.vercel.app/api?username=sudarshan-koirala)](https://github.com/sudarshan-koirala)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-koirala&layout=compact)](https://github.com/sudarshan-koirala)
 <!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
 <!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
